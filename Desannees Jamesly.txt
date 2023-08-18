@@ -1,0 +1,19 @@
+Algo-modpas
+{Algo sa la pou jere modpas}
+Varyab n<-chenn,
+       modpas<-chenn,
+       ansyenmodpas<-chenn
+
+modpas<-"Monsieur509";
+ansyenmodpas<-"Vava510";
+
+Demare
+Afiche("Antre modpas ou:");
+Antre(n);
+Si n=modpas donk
+    afiche("Byenvini");
+Sinon si n=ansyenmodpas 
+    afiche("Modpas ou an pa korèk e ou antre yon ansyen modpas");
+sinon
+   afiche("modpas ou an pa korèk");
+Fen 
